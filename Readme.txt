@@ -18,5 +18,6 @@ Voici une description du site Kalanso conçu avec Wordpress en local :
 - Wp forms : Pour la gestion des formulaires
 - Wp Mail SMTP : Pour la récuperation des données de formulaire 
 - Sucuri security : Pour protéger votre site contre les attaques et les vulnérabilités.
+- Cookiyes : Pour la confidentialités des visiteurs
 3- Le lien Github du projet : https://github.com/Mcoulby91/Projet_Wordpress.git
 4- Le lien Figma vers la maquette du site : https://www.figma.com/file/XNhDkMNyjUfQW7uAFG1OM9/Maquette-Orange-Digital-Kalanso?type=design&node-id=0-1&mode=design&t=A8G2WwwXwJiFzuGk-0
